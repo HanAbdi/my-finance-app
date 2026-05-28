@@ -4,7 +4,7 @@ Aplikasi pengelolaan keuangan pribadi berbasis web yang memungkinkan pengguna un
 
 ---
 
-## 🚀 Fitur Utama
+## Fitur Utama
 
 - **Autentikasi Pengguna**: Sistem login dan registrasi yang aman menggunakan Supabase Auth.
 - **Manajemen Transaksi**: Catat pemasukan dan pengeluaran dengan kategori yang dapat disesuaikan.
@@ -17,7 +17,7 @@ Aplikasi pengelolaan keuangan pribadi berbasis web yang memungkinkan pengguna un
 
 ---
 
-## 🛠️ Stack Teknologi
+## Stack Teknologi
 
 **Frontend:**
 
@@ -36,7 +36,7 @@ Aplikasi pengelolaan keuangan pribadi berbasis web yang memungkinkan pengguna un
 
 ---
 
-## ⚙️ Persiapan Lokal
+## Persiapan Lokal
 
 Jika ingin menjalankan proyek ini di mesin lokal, ikuti langkah berikut:
 
